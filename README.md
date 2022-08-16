@@ -16,7 +16,7 @@ Required fields:
 
 
 ### Delete Agent
-Unavailable at this time
+Unavailable via API at this time, must be done from UI or directly via database.
 
 ---
 
